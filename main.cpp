@@ -5,7 +5,6 @@
 
 int main()
 {
-
 	int values[10] = { 19, 15, 223,	1951, 51923, 1,	23, 9, 100, 10 };
 	int temp;
 
@@ -24,6 +23,5 @@ int main()
 			}
 		}
 	}
-
 	return 0;
 }
